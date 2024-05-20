@@ -5,15 +5,8 @@
 - 🌱 I’m currently learning firebase
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/shriya-udupa-2b230b2a0/"
+<img height="32" width="32" src="linkedin.svg" link="https://www.linkedin.com/in/shriya-udupa-2b230b2a0/" />
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/shriyaudupa"
 
 - ⚡ Fun fact: I like to play basketball and play the piano
 - Languages and tools:
