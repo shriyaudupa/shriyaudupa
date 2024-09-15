@@ -1,5 +1,5 @@
 ### Hi there, I'm Shriya Udupa 👋
- I am a second-year Computer Science undergraduate at IIIT Dharwad... 
+ I am a third-year Computer Science undergraduate at IIIT Dharwad... 
 
 - 🔭 I’m currently working on developing flutter based apps
 - 🌱 I’m currently learning firebase
